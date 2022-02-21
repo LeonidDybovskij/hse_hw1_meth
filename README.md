@@ -18,7 +18,7 @@ Bismark отчёты:
 8 cell:
 ![Screenshot from 2022-02-21 23-19-23](https://user-images.githubusercontent.com/60808642/155021722-6951c6c3-5e32-4967-9657-dfedfcc57a30.png)
 ![Screenshot from 2022-02-21 23-19-35](https://user-images.githubusercontent.com/60808642/155021789-77457d7c-aa6a-4645-8de5-8dee04d1b039.png)
-![Screenshot from 2022-02-21 23-19-35](https://user-images.githubusercontent.com/60808642/155021748-39ddffbc-6832-4331-a3d6-52692eea4436.png)
+![Screenshot from 2022-02-21 23-19-46](https://user-images.githubusercontent.com/60808642/155022644-3ae240da-5446-48ee-a86e-d1e87ed416e8.png)
 ![8 cell](https://user-images.githubusercontent.com/60808642/154995957-dc9efa1d-071c-4730-b5c7-944dfc09734d.png)
 
 ICM:
