@@ -24,7 +24,7 @@ Bismark отчёты:
 ICM:
 ![Screenshot from 2022-02-21 23-25-40](https://user-images.githubusercontent.com/60808642/155022349-1d4dc970-862b-42d6-ae3d-9bf1ad4eb421.png)
 ![Screenshot from 2022-02-21 23-25-44](https://user-images.githubusercontent.com/60808642/155022395-92853f91-ae9d-4c02-9215-f27e2c8121a7.png)
-![Screenshot from 2022-02-21 23-25-47](https://user-images.githubusercontent.com/60808642/155022402-c62894e9-2404-4ed8-93b4-c776f697d6d0.png)
+![Screenshot from 2022-02-21 23-23-28](https://user-images.githubusercontent.com/60808642/155022487-0181053a-a98f-4445-9ee6-eab1f1b391da.png)
 ![ICM](https://user-images.githubusercontent.com/60808642/154996003-66df01e7-bf5b-44d6-8954-4b69a1369f98.png)
 
 Epiblast:
