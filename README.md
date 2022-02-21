@@ -19,3 +19,5 @@ M-bias plot Epiblast:
 ![Epiblast](https://user-images.githubusercontent.com/60808642/154995981-bb2dd211-e909-40a8-a5da-a3fbc257a0e0.png)
 M-bias plot ICM:
 ![ICM](https://user-images.githubusercontent.com/60808642/154996003-66df01e7-bf5b-44d6-8954-4b69a1369f98.png)
+
+Как видно, максимальный уровень CpG метилирования наблюдается на стадии эпибласта. Чуть ниже на стадии 8 клеток и совсем низкая на стадии между ними, что в целом соответствует ожиданиям.
