@@ -1,4 +1,4 @@
-##Целью данного задания является изучение изменения уровня CpG метилирования ДНК при раннем эмбриональном развитии мыши.
+## Целью данного задания является изучение изменения уровня CpG метилирования ДНК при раннем эмбриональном развитии мыши.
 
 Ожидается, что на ранних стадиях CpG метилирование находится на уровне минимума (25%), после чего увеличивается до 90% и остаётся таким на протяжении жизни.
 Тут рассматриваются три стадии развития мыши в течение первой недели после оплодотворения:
@@ -23,20 +23,20 @@ Epiblast - стадия эпибласта (SRR3824222)
 
 Bismark отчёты:
 
-#Для стадии 8 cell:
+# Для стадии 8 cell:
 
 ![Screenshot from 2022-02-21 23-19-23](https://user-images.githubusercontent.com/60808642/155021722-6951c6c3-5e32-4967-9657-dfedfcc57a30.png)
 ![Screenshot from 2022-02-21 23-19-35](https://user-images.githubusercontent.com/60808642/155021789-77457d7c-aa6a-4645-8de5-8dee04d1b039.png)
 ![Screenshot from 2022-02-21 23-19-46](https://user-images.githubusercontent.com/60808642/155022644-3ae240da-5446-48ee-a86e-d1e87ed416e8.png)
 ![8 cell](https://user-images.githubusercontent.com/60808642/154995957-dc9efa1d-071c-4730-b5c7-944dfc09734d.png)
 
-#Для стадии ICM:
+# Для стадии ICM:
 ![Screenshot from 2022-02-21 23-25-40](https://user-images.githubusercontent.com/60808642/155022349-1d4dc970-862b-42d6-ae3d-9bf1ad4eb421.png)
 ![Screenshot from 2022-02-21 23-25-44](https://user-images.githubusercontent.com/60808642/155022395-92853f91-ae9d-4c02-9215-f27e2c8121a7.png)
 ![Screenshot from 2022-02-21 23-23-28](https://user-images.githubusercontent.com/60808642/155022558-b09e6244-bddb-41c1-8672-bd488f7f9bf6.png)
 ![ICM](https://user-images.githubusercontent.com/60808642/154996003-66df01e7-bf5b-44d6-8954-4b69a1369f98.png)
 
-#Для стадии Epiblast:
+# Для стадии Epiblast:
 ![Screenshot from 2022-02-21 23-23-21](https://user-images.githubusercontent.com/60808642/155022052-902b45c4-9fb2-42ac-9e80-533176be13ae.png)
 ![Screenshot from 2022-02-21 23-23-25](https://user-images.githubusercontent.com/60808642/155022061-513f568a-6754-4123-bacb-6dfa764424ba.png)
 ![Screenshot from 2022-02-21 23-23-28](https://user-images.githubusercontent.com/60808642/155022071-cc8e424b-6c6d-4bda-997b-7ddbe56238a0.png)
