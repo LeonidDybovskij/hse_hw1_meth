@@ -1,8 +1,10 @@
-## The purpose of this work was to study changes in the level of CpG DNA methylation during early embryonic development of the mouse.
+## CpG DNA methylation
 
 [This README in russian](README.ru.md)
 
+The purpose of this work was to study changes in the level of CpG DNA methylation during early embryonic development of the mouse.  
 In the early stages, CpG methylation is expected to be minimal (25%), after which it increases to 90% and remains so throughout life.  
+
 This work examines three stages of mouse development during the first week after fertilization:  
 8cell - 8-cell embryo (SRR5836473)  
 ICM - Inner cell mass (SRR5836475)  
