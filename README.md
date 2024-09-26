@@ -9,7 +9,7 @@ ICM - Inner cell mass (SRR5836475)
 Epiblast - epiblast stage (SRR3824222)
 
 All commands were executed in the Linux terminal.  
-Screenshots and text for executing are in the proof folder.
+Screenshots and text for executing are in the proof folder.  
 
 Statistics on the number of reads:
 |Number of reads in the area|8 cell|Epiblast|ICM|
